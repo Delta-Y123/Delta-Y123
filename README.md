@@ -36,6 +36,20 @@ $$F(x,p)=\sum_{i=1}^{n}\frac{x_i}{p\,x_{i+1}+q\,x_{i+2}},\qquad p+q=1,\qquad 0\l
 
 ---
 
+## 开发成果
+
+### Codex + DeepSeek Harness 桌面宠物
+
+一个 Windows 悬浮小挂件：把 **OpenAI Codex** 和 **DeepSeek Harness** 两个 AI 编程工具
+的用量、额度和花费并排放在桌面指定角落里，两行、可调的透明背景、几乎不占地方。
+
+```
+● Codex     gpt-5.6-sol   5h 100% · 7d 99%     0 tok · $0.00
+● DeepSeek  v4-pro        余额 ¥6.90          62.3M tok · ¥23.35
+```
+
+**状态灯**：🟢 工作中　⚪ 休息中　🔴 未运行
+
 ## 在研项目
 
 ### 面向测地流二次守恒量的研究 Agent：Killing 张量搜索、符号验证与扰动分析
@@ -75,3 +89,4 @@ $$F(x,p)=\sum_{i=1}^{n}\frac{x_i}{p\,x_{i+1}+q\,x_{i+2}},\qquad p+q=1,\qquad 0\l
 | 仓库 | 说明 |
 | --- | --- |
 | [denominator-weighted-shapiro-cyclic-sum](https://github.com/Delta-Y123/denominator-weighted-shapiro-cyclic-sum) | 分母加权 Shapiro 循环和：论文全文、LaTeX 源码、RBFGS 算法实现、以及经独立校验的 1349 次数值实验汇总 |
+| [Codex + DeepSeek Harness 桌面宠物](https://github.com/Delta-Y123/codex-deepseek-pet/tree/main) | 一个 Windows 悬浮小挂件：实时监控 **OpenAI Codex** 和 **DeepSeek Harness** 两个 AI 编程工具的用量、额度和花费 |
