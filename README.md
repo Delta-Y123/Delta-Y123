@@ -64,3 +64,4 @@ $$F(x,p)=\sum_{i=1}^{n}\frac{x_i}{p\,x_{i+1}+q\,x_{i+2}},\qquad p+q=1,\qquad 0\l
 | [分母加权 Shapiro 循环和的研究与高效求解算法](https://github.com/Delta-Y123/denominator-weighted-shapiro-cyclic-sum) | 分母加权 Shapiro 循环和：论文全文、LaTeX 源码、RBFGS 算法实现、以及经独立校验的 1349 次数值实验汇总 |
 | [Codex + DeepSeek Harness 桌面宠物](https://github.com/Delta-Y123/codex-deepseek-pet/tree/main) | 一个 Windows 悬浮小挂件：实时监控 **OpenAI Codex** 和 **DeepSeek Harness** 两个 AI 编程工具的用量、额度和花费 |
 | [面向测地流二次守恒量的研究 Agent：Killing 张量搜索、符号验证与扰动分析](https://github.com/Delta-Y123/Research-Agent-for-Quadratic-Conserved-Quantities-of-Geodesic-Flows/tree/main) | 构建结合符号计算与实验决策的研究 Agent，搜索并验证测地流的二次守恒量，研究已知守恒量在度量扰动下能否延续。 |
+| [同济图书馆座位监控](https://github.com/Delta-Y123/SeatWatch) | 一个帮你“盯座位”的安卓 App |
